@@ -46,6 +46,7 @@ https://ng-bootstrap.github.io/#/getting-started
 # Criando uma API fake com json-server 
 
 instalação >>> npm install json-server
+instalação da lib GoogleMaps >>> npm install googlemaps
 
 arquivo >>> login-rastreado.json   
                 usuario = string 
