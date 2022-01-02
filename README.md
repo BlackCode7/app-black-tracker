@@ -40,7 +40,7 @@ git push -u origin main
 - bootdtrap >>> ng add @ng-bootstrap/ng-bootstrap -> Installation for Angular CLI
 
 https://ng-bootstrap.github.io/#/getting-started
-- bootdtrap >>> ng add @ng-bootstrap/ng-bootstrap@9 --project front-rastreador --> especificando o projeto de instalação
+- bootstrap >>> ng add @ng-bootstrap/ng-bootstrap@9 --project front-rastreador --> especificando o projeto de instalação
 
 
 # Criando uma API fake com json-server 
