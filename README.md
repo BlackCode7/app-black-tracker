@@ -1,5 +1,5 @@
-# Tutoriais de Ajuda para criação do App
-https://www.youtube.com/watch?v=lApggVS0icc
+# Tutoriais de Ajuda para criação do App > Esse tutorial deu certo, gera a chave key e vincula a conta
+https://www.youtube.com/watch?v=wxqpvpNKD7A
 
 # app-black-tracker
 App for tracker vehicle
