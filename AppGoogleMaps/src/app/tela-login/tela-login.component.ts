@@ -6,6 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./tela-login.component.css']
 })
 export class TelaLoginComponent implements OnInit {
+  component: any;
+  title = "Test Title";
 
   constructor() { }
 

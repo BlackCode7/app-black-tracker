@@ -29,8 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Credenciais do projeto ProjetoGoogleMaps no Google Cloud
 
 nome do projeto >>> ProjetoGoogleMaps
-ID do projeto >>> handy-amp-337011
-Número do projeto >>> 259352435017
 
 ## Instalações de bibliotecas
 google maps >>> npm install googlemaps
@@ -45,5 +43,14 @@ https://valor-software.com/ngx-bootstrap/#/components
 https://icons.getbootstrap.com/
 https://ng-bootstrap.github.io/#/components/accordion/examples
 
+## Açoes realizadas 
+data 09/01/22
+ 
+ >>> Objetivo - criar tela de login para limitar o acesso a plataforma de monitoramento
+
+1 - Criação do componente da tela de login - ok
+2 - instalação da biblioteca bootstrap para layoutização - ok
+3 - criação da tela de login - ok
+4 - criar um service para trazer os dados da API fake
 
 

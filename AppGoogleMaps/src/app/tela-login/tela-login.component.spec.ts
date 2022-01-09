@@ -6,12 +6,17 @@ describe('TelaLoginComponent', () => {
   let component: TelaLoginComponent;
   let fixture: ComponentFixture<TelaLoginComponent>;
 
+  //let https: HttpsClient;
+
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ TelaLoginComponent ]
-    })
-    .compileComponents();
+      declarations: [ 
+        TelaLoginComponent,
+        //HttpClientTestingsModule 
+      ]
+    }).compileComponents();
   });
+  //component = TestBed.createComponent(TelaLoginComponent);
 
   beforeEach(() => {
     fixture = TestBed.createComponent(TelaLoginComponent);
@@ -21,5 +26,11 @@ describe('TelaLoginComponent', () => {
 
   it('should create', () => {
     expect(component).toBeTruthy();
+  });
+
+  it('Should have title in component', () => {
+    component.component = {...component.component, title: 'AppGoogleMaps'}
+    fixture.detectChanges();
+    expect()
   });
 });
