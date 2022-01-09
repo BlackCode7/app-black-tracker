@@ -34,6 +34,16 @@ Número do projeto >>> 259352435017
 
 ## Instalações de bibliotecas
 google maps >>> npm install googlemaps
+npm i bootstrap-icons
+npm install bootstrap 
+npm install ngx-bootstrap@7 --save
+ng add @ng-bootstrap/ng-bootstrap@9 --project AppGoogleMaps
+ng add @ng-bootstrap/ng-bootstrap@4.5.0 --project AppGoogleMaps 
+
+## Páginas de Bibliotecas para ajuda na construção do Aplicativo ( >>> BOOTSTRAP <<< )
+https://valor-software.com/ngx-bootstrap/#/components
+https://icons.getbootstrap.com/
+https://ng-bootstrap.github.io/#/components/accordion/examples
 
 
 

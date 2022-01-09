@@ -5,11 +5,14 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { GooglemapaComponent } from './googlemapa/googlemapa.component';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { TelaLoginComponent } from './tela-login/tela-login.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    GooglemapaComponent
+    GooglemapaComponent,
+    TelaLoginComponent
     // Colocar a chave API KEy google maps aqui
   //   AgmCoreModule.forRoot({
   //     apiKey: ''
@@ -18,7 +21,8 @@ import { GooglemapaComponent } from './googlemapa/googlemapa.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    NgbModule
   ],
   providers: [],
   bootstrap: [AppComponent]
