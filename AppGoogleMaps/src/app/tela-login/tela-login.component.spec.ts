@@ -28,9 +28,9 @@ describe('TelaLoginComponent', () => {
     expect(component).toBeTruthy();
   });
 
-  it('Should have title in component', () => {
-    component.component = {...component.component, title: 'AppGoogleMaps'}
-    fixture.detectChanges();
-    expect()
-  });
+  // it('Should have title in component', () => {
+  //   component.component = {...component.component, title: 'AppGoogleMaps'}
+  //   fixture.detectChanges();
+  //   expect()
+  // });
 });

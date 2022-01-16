@@ -53,4 +53,9 @@ data 09/01/22
 3 - criação da tela de login - ok
 4 - criar um service para trazer os dados da API fake
 
+##ERRORS
+
+biblioteca initMap com problema
+1 _ https://stackoverflow.com/questions/32496382/typeerror-window-initmap-is-not-a-function
+
 
