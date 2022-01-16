@@ -1,3 +1,6 @@
+# Criado um Gitflow para gerenciamento de tarefas
+https://github.com/users/BlackCode7/projects/2?add_cards_query=is%3Aopen
+
 # Tutoriais de Ajuda para criação do App > Esse tutorial deu certo, gera a chave key e vincula a conta
 https://www.youtube.com/watch?v=wxqpvpNKD7A
 
