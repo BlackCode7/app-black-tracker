@@ -59,3 +59,5 @@ arquivo >>> login-rastreado.json
                 senha = string  
 
 iniciando >>> dentro da pasta jsonserver >>> json-server --watch login-rastreado.json
+
+# Sem desenvolvimento
