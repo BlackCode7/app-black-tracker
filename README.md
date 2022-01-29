@@ -58,6 +58,8 @@ arquivo >>> login-rastreado.json
                 usuario = string 
                 senha = string  
 
-iniciando >>> dentro da pasta jsonserver >>> json-server --watch login-rastreado.json
+1 - iniciando >>> dentro da pasta jsonserver >>> json-server --watch login-rastreado.json
+
+2 - iniciando >>> Api Java da tela de login dados --->>> id/username/email/password
 
 # Sem desenvolvimento
