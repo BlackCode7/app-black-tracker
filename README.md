@@ -62,4 +62,12 @@ arquivo >>> login-rastreado.json
 
 2 - iniciando >>> Api Java da tela de login dados --->>> id/username/email/password
 
+3 - Criando as entidades do banco Para o MySQL --->>>  47be2e8..d21d378
+
+4 - Criando o arquivo application.properties --->>>  47be2e8..d21d378
+
+5 - Criando testes para classe controller --->>>  47be2e8..d21d378
+
+6 - Atualização de repositório --->>> d21d378..e68d766
+
 # Sem desenvolvimento
