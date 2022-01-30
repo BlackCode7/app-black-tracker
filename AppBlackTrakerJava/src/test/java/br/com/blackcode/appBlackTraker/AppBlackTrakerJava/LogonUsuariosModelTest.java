@@ -14,7 +14,7 @@ public class LogonUsuariosModelTest {
 	@Order(1)
 	@DisplayName("Testando os tipos campos da classe Id")
 	void TestaOsTiposDaClasseLogonUsuariosModel_id() {
-		LogonUsuariosModel varId = LogonUsuariosModel.builder().id((int) 1).build() ;
+		LogonUsuariosModel varId = LogonUsuariosModel.builder().id((long) 1).build() ;
 		assertEquals(1, varId.getId());
 	}
 	
