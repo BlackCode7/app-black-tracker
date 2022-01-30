@@ -1,0 +1,28 @@
+package br.com.blackcode.appBlackTraker.controller;
+
+import java.util.List;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.NoArgsConstructor;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import br.com.blackcode.appBlackTraker.model.LogonUsuariosModel;
+
+@Builder(toBuilder=true)
+@Controller
+public class LoginTrackerCadastroController {
+
+	@RequestMapping("/login")
+	public List<LogonUsuariosModel> lista() {
+		
+		LogonUsuariosModel usuarioModel = new LogonUsuariosModel((Long)1, "userName1", "userName1@userName1.com","admin","123");
+		
+		return null;
+	}
+	
+	
+
+}

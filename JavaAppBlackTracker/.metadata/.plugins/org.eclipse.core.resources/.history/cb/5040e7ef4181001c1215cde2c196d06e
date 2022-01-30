@@ -1,0 +1,13 @@
+package br.com.blackcode.appBlackTraker.AppBlackTrakerJava;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import br.com.blackcode.appBlackTraker.model.LogonUsuariosModel;
+
+public class LogonUsuariosModelTest {
+
+	void TestaOsTiposDaClasseLogonUsuariosModel() {
+		LogonUsuariosModel varId = new LogonUsuariosModel();
+		assertEquals(true, varId.getId().longValue());
+	}
+}

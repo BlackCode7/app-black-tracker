@@ -1,0 +1,19 @@
+package br.com.blackcode.appBlackTraker.AppBlackTrakerJava;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Order;
+import org.junit.jupiter.api.Test;
+
+public class AppBlackTrakerJavaTeste {
+
+	@Test
+	@Order(1)
+	@DisplayName("Teste da primeira função da aplicação!")
+	void TestAppBlackTrakerClasse() {
+		AppBlackTrakerClasse hello = new AppBlackTrakerClasse();
+		assertEquals(true, hello.hello());		
+	}
+	
+}

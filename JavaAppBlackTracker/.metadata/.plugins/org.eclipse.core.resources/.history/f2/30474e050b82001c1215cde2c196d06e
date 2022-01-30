@@ -1,0 +1,4 @@
+
+spring.devtools.add-properties=true
+management.endpoint.auditevents.enabled=true
+management.endpoint.caches.enabled=true

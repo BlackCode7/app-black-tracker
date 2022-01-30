@@ -1,0 +1,31 @@
+package br.com.blackcode.appBlackTraker.AppBlackTrakerJava;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Order;
+import org.junit.jupiter.api.Test;
+
+import br.com.blackcode.appBlackTraker.controller.LoginTrackerCadastroController;
+
+public class LoginTrackerCadastroControllerTest {
+
+	@Test
+	@Order(1)
+	@DisplayName("Teste da classe LoginTrackerCadastroController")
+	void testaMetodoClasseControllerLoginTracker() {
+		LoginTrackerCadastroController usuarioModel = new LoginTrackerCadastroController();
+		
+		LoginTrackerCadastroController test1 = new LoginTrackerCadastroController();
+				.id((Long)1)
+				.userName("Anderson")
+				.email("Anderson@Anderson.com")
+				.perfil("admin")
+				.password("123")
+				.build();
+		
+		assertEquals(true, usuarioModel.equals(usuarioModel));			
+	}
+	
+	
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AppBlackTrakerJavaTeste" project="AppBlackTrakerJava" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="br.com.blackcode.appBlackTraker.AppBlackTrakerJava.AppBlackTrakerJavaTeste" time="0.024" displayname="AppBlackTrakerJavaTeste" uniqueid="[engine:junit-jupiter]/[class:br.com.blackcode.appBlackTraker.AppBlackTrakerJava.AppBlackTrakerJavaTeste]">
+    <testcase name="TestAppTrakerController" classname="br.com.blackcode.appBlackTraker.AppBlackTrakerJava.AppBlackTrakerJavaTeste" time="0.02" displayname="Teste da primeira função da aplicação!" uniqueid="[engine:junit-jupiter]/[class:br.com.blackcode.appBlackTraker.AppBlackTrakerJava.AppBlackTrakerJavaTeste]/[method:TestAppTrakerController()]"/>
+    <testcase name="TestAppBlackTrakerClasse" classname="br.com.blackcode.appBlackTraker.AppBlackTrakerJava.AppBlackTrakerJavaTeste" time="0.003" displayname="Teste da primeira função da aplicação!" uniqueid="[engine:junit-jupiter]/[class:br.com.blackcode.appBlackTraker.AppBlackTrakerJava.AppBlackTrakerJavaTeste]/[method:TestAppBlackTrakerClasse()]"/>
+  </testsuite>
+</testrun>

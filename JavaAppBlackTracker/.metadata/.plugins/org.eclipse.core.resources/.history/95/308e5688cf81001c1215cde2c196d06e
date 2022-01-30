@@ -1,0 +1,27 @@
+package br.com.blackcode.appBlackTraker.model;
+
+import lombok.Builder;
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
+@Builder(toBuilder = true)
+public class LogonUsuariosModel {
+	
+	private Long id;
+	private String userName;
+	private String email;
+	private String perfil;
+	private String password;
+	
+	public LogonUsuariosModel(Long id, String userName, String email, String perfil, String password) {
+		super();
+		this.id = id;
+		this.userName = userName;
+		this.email = email;
+		this.perfil = perfil;
+		this.password = password;
+	}
+		
+}
