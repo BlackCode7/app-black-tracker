@@ -2,6 +2,8 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 //import { AgmCoreModule } from '@agm/core';
 import { HttpClientModule } from '@angular/common/http';
+import { FormBuilder, FormGroup } from '@angular/forms';
+import { ReactiveFormsModule } from '@angular/forms';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -21,10 +23,8 @@ import { TelaLoginComponent } from './tela-login/tela-login.component';
 
   ],
   imports: [
-    BrowserModule,
-    AppRoutingModule,
-    HttpClientModule,
-    NgbModule
+    BrowserModule, AppRoutingModule, HttpClientModule,
+    NgbModule, FormBuilder, FormGroup, ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

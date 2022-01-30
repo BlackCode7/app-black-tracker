@@ -1,3 +1,6 @@
+# Criado um Gitflow para gerenciamento de tarefas
+https://github.com/users/BlackCode7/projects/2?add_cards_query=is%3Aopen
+
 # Tutoriais de Ajuda para criação do App > Esse tutorial deu certo, gera a chave key e vincula a conta
 https://www.youtube.com/watch?v=wxqpvpNKD7A
 
@@ -55,4 +58,8 @@ arquivo >>> login-rastreado.json
                 usuario = string 
                 senha = string  
 
-iniciando >>> dentro da pasta jsonserver >>> json-server --watch login-rastreado.json
+1 - iniciando >>> dentro da pasta jsonserver >>> json-server --watch login-rastreado.json
+
+2 - iniciando >>> Api Java da tela de login dados --->>> id/username/email/password
+
+# Sem desenvolvimento
