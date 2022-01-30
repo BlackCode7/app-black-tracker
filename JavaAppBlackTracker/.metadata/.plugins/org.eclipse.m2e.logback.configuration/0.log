@@ -874,3 +874,53 @@
 2022-01-30 17:27:18,915 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-01-30 17:27:18,915 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-01-30 17:27:18,915 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\2022_projects\app-black-tracker\AppBlackTrakerJava\src\test\resources
+2022-01-30 18:19:00,195 [Worker-219: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.blackcode.appBlackTraker:AppBlackTrakerJava:0.0.1-SNAPSHOT @ A:\2022_projects\app-black-tracker\AppBlackTrakerJava\pom.xml.
+2022-01-30 18:19:01,806 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-30 18:19:01,806 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-30 18:19:01,810 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-30 18:19:01,845 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-30 18:19:01,847 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-30 18:19:01,848 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-30 18:19:01,848 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\2022_projects\app-black-tracker\AppBlackTrakerJava\src\test\resources
+2022-01-30 18:19:04,496 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-30 18:19:04,496 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-30 18:19:04,497 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-30 18:19:04,497 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-30 18:19:04,499 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-30 18:19:04,499 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-30 18:19:04,499 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\2022_projects\app-black-tracker\AppBlackTrakerJava\src\test\resources
+2022-01-30 18:19:30,817 [Worker-209: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-30 18:19:30,818 [Worker-209: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-30 18:19:30,818 [Worker-209: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-30 18:19:30,828 [Worker-209: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-30 18:19:30,829 [Worker-209: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-30 18:19:30,829 [Worker-209: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-30 18:19:30,829 [Worker-209: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\2022_projects\app-black-tracker\AppBlackTrakerJava\src\test\resources
+2022-01-30 18:20:42,959 [Worker-218: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-30 18:20:42,959 [Worker-218: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-30 18:20:42,960 [Worker-218: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-30 18:20:42,980 [Worker-218: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-30 18:20:42,982 [Worker-218: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-30 18:20:42,982 [Worker-218: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-30 18:20:42,982 [Worker-218: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\2022_projects\app-black-tracker\AppBlackTrakerJava\src\test\resources
+2022-01-30 19:37:09,251 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-30 19:37:09,252 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-30 19:37:09,253 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-30 19:37:09,376 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-30 19:37:09,381 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-30 19:37:09,381 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-30 19:37:09,381 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\2022_projects\app-black-tracker\AppBlackTrakerJava\src\test\resources
+2022-01-30 19:37:38,857 [Worker-232: Launching New_configuration] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-30 19:37:38,857 [Worker-232: Launching New_configuration] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-30 19:37:38,858 [Worker-232: Launching New_configuration] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-30 19:37:38,888 [Worker-232: Launching New_configuration] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-30 19:37:38,889 [Worker-232: Launching New_configuration] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-30 19:37:38,890 [Worker-232: Launching New_configuration] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-30 19:37:38,890 [Worker-232: Launching New_configuration] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\2022_projects\app-black-tracker\AppBlackTrakerJava\src\test\resources
+2022-01-30 19:39:26,194 [Worker-235: Launching LogonUsuariosModelTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-30 19:39:26,194 [Worker-235: Launching LogonUsuariosModelTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-30 19:39:26,194 [Worker-235: Launching LogonUsuariosModelTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-30 19:39:26,207 [Worker-235: Launching LogonUsuariosModelTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-30 19:39:26,208 [Worker-235: Launching LogonUsuariosModelTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-30 19:39:26,209 [Worker-235: Launching LogonUsuariosModelTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-30 19:39:26,209 [Worker-235: Launching LogonUsuariosModelTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory A:\2022_projects\app-black-tracker\AppBlackTrakerJava\src\test\resources
