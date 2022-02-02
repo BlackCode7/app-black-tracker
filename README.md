@@ -70,4 +70,6 @@ arquivo >>> login-rastreado.json
 
 6 - Atualização de repositório --->>> d21d378..e68d766
 
+7 - Data 01/02/22 >>> não consegui desenvolver a aplicação hoje por conta de demandas do trabalho
+
 # Sem desenvolvimento
