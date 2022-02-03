@@ -72,4 +72,6 @@ arquivo >>> login-rastreado.json
 
 7 - Data 01/02/22 >>> não consegui desenvolver a aplicação hoje por conta de demandas do trabalho
 
+8 - Data 02/02/22 >>> não consegui desenvolver a aplicação hoje por conta de demandas do trabalho
+
 # Sem desenvolvimento
